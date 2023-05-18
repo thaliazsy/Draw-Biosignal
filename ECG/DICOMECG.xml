@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<NativeDicomModel>
+<DicomAttribute  tag="00020000"  offset ="140" length ="4"  vr= "UL" keyword= "FileMetaInformationGroupLength" ><Value number="1" >-973078528</Value></DicomAttribute>
+<DicomAttribute  tag="00020001"  offset ="156" length ="2"  vr= "OB" keyword= "FileMetaInformationVersion" ></DicomAttribute>
+<DicomAttribute  tag="00020002"  offset ="166" length ="30"  vr= "UI" keyword= "MediaStorageSOPClassUID" ><Value number="1" >1.2.840.10008.5.1.4.1.1.9.1.1</Value></DicomAttribute>
+<DicomAttribute  tag="00020003"  offset ="204" length ="50"  vr= "UI" keyword= "MediaStorageSOPInstanceUID" ><Value number="1" >1.2.840.113817.8888.8888.001.20151203143109297.1.1</Value></DicomAttribute>
+<DicomAttribute  tag="00020010"  offset ="262" length ="20"  vr= "UI" keyword= "TransferSyntaxUID" ><Value number="1" >1.2.840.10008.1.2.1</Value></DicomAttribute>
+<DicomAttribute  tag="00020012"  offset ="290" length ="28"  vr= "UI" keyword= "ImplementationClassUID" ><Value number="1" >1.2.276.0.7230010.3.0.3.6.0</Value></DicomAttribute>
+<DicomAttribute  tag="00020013"  offset ="326" length ="16"  vr= "SH" keyword= "ImplementationVersionName" ><Value number="1" >OFFIS_DCMTK_360 </Value></DicomAttribute>
+<DicomAttribute  tag="00080005"  offset ="350" length ="0"  vr= "CS" keyword= "SpecificCharacterSet" ></DicomAttribute>
+<DicomAttribute  tag="00080012"  offset ="358" length ="0"  vr= "DA" keyword= "InstanceCreationDate" ></DicomAttribute>
+<DicomAttribute  tag="00080013"  offset ="366" length ="0"  vr= "TM" keyword= "InstanceCreationTime" ></DicomAttribute>
+<DicomAttribute  tag="00080016"  offset ="374" length ="30"  vr= "UI" keyword= "SOPClassUID" ><Value number="1" >1.2.840.10008.5.1.4.1.1.9.1.1</Value></DicomAttribute>
+<DicomAttribute  tag="00080018"  offset ="412" length ="50"  vr= "UI" keyword= "SOPInstanceUID" ><Value number="1" >1.2.840.113817.8888.8888.001.20151203143109297.1.1</Value></DicomAttribute>
+<DicomAttribute  tag="00080020"  offset ="470" length ="8"  vr= "DA" keyword= "StudyDate" ><Value number="1" >20151203</Value></DicomAttribute>
+<DicomAttribute  tag="00080021"  offset ="486" length ="8"  vr= "DA" keyword= "SeriesDate" ><Value number="1" >20151203</Value></DicomAttribute>
+<DicomAttribute  tag="00080023"  offset ="502" length ="8"  vr= "DA" keyword= "ContentDate" ><Value number="1" >20151203</Value></DicomAttribute>
+<DicomAttribute  tag="0008002A"  offset ="518" length ="0"  vr= "DT" keyword= "AcquisitionDateTime" ></DicomAttribute>
+<DicomAttribute  tag="00080030"  offset ="526" length ="8"  vr= "TM" keyword= "StudyTime" ><Value number="1" >143111.0</Value></DicomAttribute>
+<DicomAttribute  tag="00080031"  offset ="542" length ="8"  vr= "TM" keyword= "SeriesTime" ><Value number="1" >143111.0</Value></DicomAttribute>
+<DicomAttribute  tag="00080033"  offset ="558" length ="8"  vr= "TM" keyword= "ContentTime" ><Value number="1" >143111.0</Value></DicomAttribute>
+<DicomAttribute  tag="00080050"  offset ="574" length ="8"  vr= "SH" keyword= "AccessionNumber" ><Value number="1" >74901414</Value></DicomAttribute>
+<DicomAttribute  tag="00080060"  offset ="590" length ="4"  vr= "CS" keyword= "Modality" ><Value number="1" >ECG </Value></DicomAttribute>
+<DicomAttribute  tag="00080070"  offset ="602" length ="16"  vr= "LO" keyword= "Manufacturer" ><Value number="1" >PageWriter Trim </Value></DicomAttribute>
+<DicomAttribute  tag="00080080"  offset ="626" length ="2"  vr= "LO" keyword= "InstitutionName" ><Value number="1" >64</Value></DicomAttribute>
+<DicomAttribute  tag="00080081"  offset ="636" length ="0"  vr= "ST" keyword= "InstitutionAddress" ></DicomAttribute>
+<DicomAttribute  tag="00080090"  offset ="644" length ="4"  vr= "PN" keyword= "ReferringPhysicianName" ><Value number="1" >3003</Value></DicomAttribute>
+<DicomAttribute  tag="00081010"  offset ="656" length ="2"  vr= "SH" keyword= "StationName" ><Value number="1" >64</Value></DicomAttribute>
+<DicomAttribute  tag="00081030"  offset ="666" length ="10"  vr= "LO" keyword= "StudyDescription" ><Value number="1" >Scalar ECG</Value></DicomAttribute>
+<DicomAttribute  tag="00081050"  offset ="684" length ="0"  vr= "PN" keyword= "PerformingPhysicianName" ></DicomAttribute>
+<DicomAttribute  tag="00081070"  offset ="692" length ="4"  vr= "PN" keyword= "OperatorsName" ><Value number="1" >1588</Value></DicomAttribute>
+<DicomAttribute  tag="00081090"  offset ="704" length ="0"  vr= "LO" keyword= "ManufacturerModelName" ></DicomAttribute>
+<DicomAttribute  tag="00100010"  offset ="712" length ="6"  vr= "PN" keyword= "PatientName" ><Value number="1" ></Value></DicomAttribute>
+<DicomAttribute  tag="00100020"  offset ="726" length ="8"  vr= "LO" keyword= "PatientID" ><Value number="1" >4564685 </Value></DicomAttribute>
+<DicomAttribute  tag="00100021"  offset ="742" length ="6"  vr= "LO" keyword= "IssuerOfPatientID" ><Value number="1" >VGHKS </Value></DicomAttribute>
+<DicomAttribute  tag="00100030"  offset ="756" length ="8"  vr= "DA" keyword= "PatientBirthDate" ><Value number="1" >19400626</Value></DicomAttribute>
+<DicomAttribute  tag="00100040"  offset ="772" length ="2"  vr= "CS" keyword= "PatientSex" ><Value number="1" >M </Value></DicomAttribute>
+<DicomAttribute  tag="00101000"  offset ="782" length ="10"  vr= "LO" keyword= "OtherPatientIDs" ><Value number="1" >S102347155</Value></DicomAttribute>
+<DicomAttribute  tag="00101010"  offset ="800" length ="0"  vr= "AS" keyword= "PatientAge" ></DicomAttribute>
+<DicomAttribute  tag="00101020"  offset ="808" length ="0"  vr= "DS" keyword= "PatientSize" ></DicomAttribute>
+<DicomAttribute  tag="00101030"  offset ="816" length ="0"  vr= "DS" keyword= "PatientWeight" ></DicomAttribute>
+<DicomAttribute  tag="00102160"  offset ="824" length ="0"  vr= "SH" keyword= "EthnicGroup" ></DicomAttribute>
+<DicomAttribute  tag="00181020"  offset ="832" length ="0"  vr= "LO" keyword= "SoftwareVersions" ></DicomAttribute>
+<DicomAttribute  tag="0018106A"  offset ="840" length ="0"  vr= "CS" keyword= "SynchronizationTrigger" ></DicomAttribute>
+<DicomAttribute  tag="00181800"  offset ="848" length ="0"  vr= "CS" keyword= "AcquisitionTimeSynchronized" ></DicomAttribute>
+<DicomAttribute  tag="0020000D"  offset ="856" length ="46"  vr= "UI" keyword= "StudyInstanceUID" ><Value number="1" >1.2.840.113817.8888.8888.001.20151203143109297</Value></DicomAttribute>
+<DicomAttribute  tag="0020000E"  offset ="910" length ="48"  vr= "UI" keyword= "SeriesInstanceUID" ><Value number="1" >1.2.840.113817.8888.8888.001.20151203143109297.1</Value></DicomAttribute>
+<DicomAttribute  tag="00200010"  offset ="966" length ="4"  vr= "SH" keyword= "StudyID" ><Value number="1" >001 </Value></DicomAttribute>
+<DicomAttribute  tag="00200011"  offset ="978" length ="2"  vr= "IS" keyword= "SeriesNumber" ><Value number="1" >1 </Value></DicomAttribute>
+<DicomAttribute  tag="00200013"  offset ="988" length ="2"  vr= "IS" keyword= "InstanceNumber" ><Value number="1" >1 </Value></DicomAttribute>
+<DicomAttribute  tag="00200200"  offset ="998" length ="0"  vr= "UI" keyword= "SynchronizationFrameOfReferenceUID" ></DicomAttribute>
+<DicomAttribute  tag="00400001"  offset ="1006" length ="4"  vr= "AE" keyword= "ScheduledStationAETitle" ><Value number="1" ></Value></DicomAttribute>
+<DicomAttribute  tag="00400002"  offset ="1018" length ="8"  vr= "DA" keyword= "ScheduledProcedureStepStartDate" ><Value number="1" >00000000</Value></DicomAttribute>
+<DicomAttribute  tag="0040B020"  offset ="1038" length ="-1"  vr= "SQ" keyword= "WaveformAnnotationSequence" ><Item  number="1"   >
+<DicomAttribute  tag="0040A0B0"  offset ="1054" length ="4"  vr= "US" keyword= "ReferencedWaveformChannels" ><Value number="1" >1</Value></DicomAttribute>
+<DicomAttribute  tag="0040A180"  offset ="1066" length ="2"  vr= "US" keyword= "AnnotationGroupNumber" ><Value number="1" >0</Value></DicomAttribute>
+<DicomAttribute  tag="00700006"  offset ="1076" length ="80"  vr= "ST" keyword= "UnformattedTextValue" ><Value number="1" >AGE IS NOT ENTERED, ASSUMED TO BE 50 YEARS OLD FOR PURPOSE OF ECG INTERPRETATION</Value></DicomAttribute>
+</Item> 
+<Item  number="2"   >
+<DicomAttribute  tag="0040A0B0"  offset ="1180" length ="4"  vr= "US" keyword= "ReferencedWaveformChannels" ><Value number="1" >1</Value></DicomAttribute>
+<DicomAttribute  tag="0040A180"  offset ="1192" length ="2"  vr= "US" keyword= "AnnotationGroupNumber" ><Value number="1" >0</Value></DicomAttribute>
+<DicomAttribute  tag="00700006"  offset ="1202" length ="48"  vr= "ST" keyword= "UnformattedTextValue" ><Value number="1" >SINUS RHYTHM       normal P axis, V-rate  50- 99</Value></DicomAttribute>
+</Item> 
+<Item  number="3"   >
+<DicomAttribute  tag="0040A0B0"  offset ="1274" length ="4"  vr= "US" keyword= "ReferencedWaveformChannels" ><Value number="1" >1</Value></DicomAttribute>
+<DicomAttribute  tag="0040A180"  offset ="1286" length ="2"  vr= "US" keyword= "AnnotationGroupNumber" ><Value number="1" >0</Value></DicomAttribute>
+<DicomAttribute  tag="00700006"  offset ="1296" length ="56"  vr= "ST" keyword= "UnformattedTextValue" ><Value number="1" >INFERIOR INFARCT, OLD       Q >35mS, flat T, II III aVF </Value></DicomAttribute>
+</Item> 
+<Item  number="4"   >
+<DicomAttribute  tag="0040A0B0"  offset ="1376" length ="4"  vr= "US" keyword= "ReferencedWaveformChannels" ><Value number="1" >1</Value></DicomAttribute>
+<DicomAttribute  tag="0040A180"  offset ="1388" length ="2"  vr= "US" keyword= "AnnotationGroupNumber" ><Value number="1" >0</Value></DicomAttribute>
+<DicomAttribute  tag="00700006"  offset ="1398" length ="30"  vr= "ST" keyword= "UnformattedTextValue" ><Value number="1" >BASELINE WANDER IN LEAD(S) V6 </Value></DicomAttribute>
+</Item> 
+<Item  number="5"   >
+<DicomAttribute  tag="004008EA"  offset ="1456" length ="-1"  vr= "SQ" keyword= "MeasurementUnitsCodeSequence" ><Item  number="1"   >
+<DicomAttribute  tag="00080100"  offset ="1472" length ="2"  vr= "SH" keyword= "CodeValue" ><Value number="1" >ms</Value></DicomAttribute>
+<DicomAttribute  tag="00080102"  offset ="1482" length ="4"  vr= "SH" keyword= "CodingSchemeDesignator" ><Value number="1" >UCUM</Value></DicomAttribute>
+<DicomAttribute  tag="00080103"  offset ="1494" length ="4"  vr= "SH" keyword= "CodingSchemeVersion" ><Value number="1" >1.4 </Value></DicomAttribute>
+<DicomAttribute  tag="00080104"  offset ="1506" length ="12"  vr= "LO" keyword= "CodeMeaning" ><Value number="1" >milliseconds</Value></DicomAttribute>
+</Item> 
+</DicomAttribute><DicomAttribute  tag="0040A043"  offset ="1546" length ="-1"  vr= "SQ" keyword= "ConceptNameCodeSequence" ><Item  number="1"   >
+<DicomAttribute  tag="00080100"  offset ="1562" length ="8"  vr= "SH" keyword= "CodeValue" ><Value number="1" >5.13.5-7</Value></DicomAttribute>
+<DicomAttribute  tag="00080102"  offset ="1578" length ="6"  vr= "SH" keyword= "CodingSchemeDesignator" ><Value number="1" >SCPECG</Value></DicomAttribute>
+<DicomAttribute  tag="00080103"  offset ="1592" length ="4"  vr= "SH" keyword= "CodingSchemeVersion" ><Value number="1" >1.3 </Value></DicomAttribute>
+<DicomAttribute  tag="00080104"  offset ="1604" length ="12"  vr= "LO" keyword= "CodeMeaning" ><Value number="1" >PR Interval </Value></DicomAttribute>
+</Item> 
+</DicomAttribute><DicomAttribute  tag="0040A0B0"  offset ="1640" length ="4"  vr= "US" keyword= "ReferencedWaveformChannels" ><Value number="1" >1</Value></DicomAttribute>
+<DicomAttribute  tag="0040A180"  offset ="1652" length ="2"  vr= "US" keyword= "AnnotationGroupNumber" ><Value number="1" >1</Value></DicomAttribute>
+<DicomAttribute  tag="0040A30A"  offset ="1662" length ="4"  vr= "DS" keyword= "NumericValue" ><Value number="1" >180 </Value></DicomAttribute>
+</Item> 
+<Item  number="6"   >
+<DicomAttribute  tag="004008EA"  offset ="1694" length ="-1"  vr= "SQ" keyword= "MeasurementUnitsCodeSequence" ><Item  number="1"   >
+<DicomAttribute  tag="00080100"  offset ="1710" length ="2"  vr= "SH" keyword= "CodeValue" ><Value number="1" >ms</Value></DicomAttribute>
+<DicomAttribute  tag="00080102"  offset ="1720" length ="4"  vr= "SH" keyword= "CodingSchemeDesignator" ><Value number="1" >UCUM</Value></DicomAttribute>
+<DicomAttribute  tag="00080103"  offset ="1732" length ="4"  vr= "SH" keyword= "CodingSchemeVersion" ><Value number="1" >1.4 </Value></DicomAttribute>
+<DicomAttribute  tag="00080104"  offset ="1744" length ="12"  vr= "LO" keyword= "CodeMeaning" ><Value number="1" >milliseconds</Value></DicomAttribute>
+</Item> 
+</DicomAttribute><DicomAttribute  tag="0040A043"  offset ="1784" length ="-1"  vr= "SQ" keyword= "ConceptNameCodeSequence" ><Item  number="1"   >
+<DicomAttribute  tag="00080100"  offset ="1800" length ="8"  vr= "SH" keyword= "CodeValue" ><Value number="1" >5.13.5-9</Value></DicomAttribute>
+<DicomAttribute  tag="00080102"  offset ="1816" length ="6"  vr= "SH" keyword= "CodingSchemeDesignator" ><Value number="1" >SCPECG</Value></DicomAttribute>
+<DicomAttribute  tag="00080103"  offset ="1830" length ="4"  vr= "SH" keyword= "CodingSchemeVersion" ><Value number="1" >1.3 </Value></DicomAttribute>
+<DicomAttribute  tag="00080104"  offset ="1842" length ="12"  vr= "LO" keyword= "CodeMeaning" ><Value number="1" >QRS Duration</Value></DicomAttribute>
+</Item> 
+</DicomAttribute><DicomAttribute  tag="0040A0B0"  offset ="1878" length ="4"  vr= "US" keyword= "ReferencedWaveformChannels" ><Value number="1" >1</Value></DicomAttribute>
+<DicomAttribute  tag="0040A180"  offset ="1890" length ="2"  vr= "US" keyword= "AnnotationGroupNumber" ><Value number="1" >1</Value></DicomAttribute>
+<DicomAttribute  tag="0040A30A"  offset ="1900" length ="2"  vr= "DS" keyword= "NumericValue" ><Value number="1" >89</Value></DicomAttribute>
+</Item> 
+<Item  number="7"   >
+<DicomAttribute  tag="004008EA"  offset ="1930" length ="-1"  vr= "SQ" keyword= "MeasurementUnitsCodeSequence" ><Item  number="1"   >
+<DicomAttribute  tag="00080100"  offset ="1946" length ="2"  vr= "SH" keyword= "CodeValue" ><Value number="1" >ms</Value></DicomAttribute>
+<DicomAttribute  tag="00080102"  offset ="1956" length ="4"  vr= "SH" keyword= "CodingSchemeDesignator" ><Value number="1" >UCUM</Value></DicomAttribute>
+<DicomAttribute  tag="00080103"  offset ="1968" length ="4"  vr= "SH" keyword= "CodingSchemeVersion" ><Value number="1" >1.4 </Value></DicomAttribute>
+<DicomAttribute  tag="00080104"  offset ="1980" length ="12"  vr= "LO" keyword= "CodeMeaning" ><Value number="1" >milliseconds</Value></DicomAttribute>
+</Item> 
+</DicomAttribute><DicomAttribute  tag="0040A043"  offset ="2020" length ="-1"  vr= "SQ" keyword= "ConceptNameCodeSequence" ><Item  number="1"   >
+<DicomAttribute  tag="00080100"  offset ="2036" length ="10"  vr= "SH" keyword= "CodeValue" ><Value number="1" >5.13.5-11 </Value></DicomAttribute>
+<DicomAttribute  tag="00080102"  offset ="2054" length ="6"  vr= "SH" keyword= "CodingSchemeDesignator" ><Value number="1" >SCPECG</Value></DicomAttribute>
+<DicomAttribute  tag="00080103"  offset ="2068" length ="4"  vr= "SH" keyword= "CodingSchemeVersion" ><Value number="1" >1.3 </Value></DicomAttribute>
+<DicomAttribute  tag="00080104"  offset ="2080" length ="12"  vr= "LO" keyword= "CodeMeaning" ><Value number="1" >QT Interval </Value></DicomAttribute>
+</Item> 
+</DicomAttribute><DicomAttribute  tag="0040A0B0"  offset ="2116" length ="4"  vr= "US" keyword= "ReferencedWaveformChannels" ><Value number="1" >1</Value></DicomAttribute>
+<DicomAttribute  tag="0040A180"  offset ="2128" length ="2"  vr= "US" keyword= "AnnotationGroupNumber" ><Value number="1" >1</Value></DicomAttribute>
+<DicomAttribute  tag="0040A30A"  offset ="2138" length ="4"  vr= "DS" keyword= "NumericValue" ><Value number="1" >360 </Value></DicomAttribute>
+</Item> 
+<Item  number="8"   >
+<DicomAttribute  tag="004008EA"  offset ="2170" length ="-1"  vr= "SQ" keyword= "MeasurementUnitsCodeSequence" ><Item  number="1"   >
+<DicomAttribute  tag="00080100"  offset ="2186" length ="2"  vr= "SH" keyword= "CodeValue" ><Value number="1" >ms</Value></DicomAttribute>
+<DicomAttribute  tag="00080102"  offset ="2196" length ="4"  vr= "SH" keyword= "CodingSchemeDesignator" ><Value number="1" >UCUM</Value></DicomAttribute>
+<DicomAttribute  tag="00080103"  offset ="2208" length ="4"  vr= "SH" keyword= "CodingSchemeVersion" ><Value number="1" >1.4 </Value></DicomAttribute>
+<DicomAttribute  tag="00080104"  offset ="2220" length ="12"  vr= "LO" keyword= "CodeMeaning" ><Value number="1" >milliseconds</Value></DicomAttribute>
+</Item> 
+</DicomAttribute><DicomAttribute  tag="0040A043"  offset ="2260" length ="-1"  vr= "SQ" keyword= "ConceptNameCodeSequence" ><Item  number="1"   >
+<DicomAttribute  tag="00080100"  offset ="2276" length ="10"  vr= "SH" keyword= "CodeValue" ><Value number="1" >5.10.2.5-5</Value></DicomAttribute>
+<DicomAttribute  tag="00080102"  offset ="2294" length ="6"  vr= "SH" keyword= "CodingSchemeDesignator" ><Value number="1" >SCPECG</Value></DicomAttribute>
+<DicomAttribute  tag="00080103"  offset ="2308" length ="4"  vr= "SH" keyword= "CodingSchemeVersion" ><Value number="1" >1.3 </Value></DicomAttribute>
+<DicomAttribute  tag="00080104"  offset ="2320" length ="22"  vr= "LO" keyword= "CodeMeaning" ><Value number="1" >QT Corrected Duration </Value></DicomAttribute>
+</Item> 
+</DicomAttribute><DicomAttribute  tag="0040A0B0"  offset ="2366" length ="4"  vr= "US" keyword= "ReferencedWaveformChannels" ><Value number="1" >1</Value></DicomAttribute>
+<DicomAttribute  tag="0040A180"  offset ="2378" length ="2"  vr= "US" keyword= "AnnotationGroupNumber" ><Value number="1" >1</Value></DicomAttribute>
+<DicomAttribute  tag="0040A30A"  offset ="2388" length ="4"  vr= "DS" keyword= "NumericValue" ><Value number="1" >443 </Value></DicomAttribute>
+</Item> 
+<Item  number="9"   >
+<DicomAttribute  tag="004008EA"  offset ="2420" length ="-1"  vr= "SQ" keyword= "MeasurementUnitsCodeSequence" ><Item  number="1"   >
+<DicomAttribute  tag="00080100"  offset ="2436" length ="4"  vr= "SH" keyword= "CodeValue" ><Value number="1" >deg </Value></DicomAttribute>
+<DicomAttribute  tag="00080102"  offset ="2448" length ="4"  vr= "SH" keyword= "CodingSchemeDesignator" ><Value number="1" >UCUM</Value></DicomAttribute>
+<DicomAttribute  tag="00080103"  offset ="2460" length ="4"  vr= "SH" keyword= "CodingSchemeVersion" ><Value number="1" >1.4 </Value></DicomAttribute>
+<DicomAttribute  tag="00080104"  offset ="2472" length ="8"  vr= "LO" keyword= "CodeMeaning" ><Value number="1" >degrees </Value></DicomAttribute>
+</Item> 
+</DicomAttribute><DicomAttribute  tag="0040A043"  offset ="2508" length ="-1"  vr= "SQ" keyword= "ConceptNameCodeSequence" ><Item  number="1"   >
+<DicomAttribute  tag="00080100"  offset ="2524" length ="10"  vr= "SH" keyword= "CodeValue" ><Value number="1" >5.10.3-11 </Value></DicomAttribute>
+<DicomAttribute  tag="00080102"  offset ="2542" length ="6"  vr= "SH" keyword= "CodingSchemeDesignator" ><Value number="1" >SCPECG</Value></DicomAttribute>
+<DicomAttribute  tag="00080103"  offset ="2556" length ="4"  vr= "SH" keyword= "CodingSchemeVersion" ><Value number="1" >1.3 </Value></DicomAttribute>
+<DicomAttribute  tag="00080104"  offset ="2568" length ="6"  vr= "LO" keyword= "CodeMeaning" ><Value number="1" >P Axis</Value></DicomAttribute>
+</Item> 
+</DicomAttribute><DicomAttribute  tag="0040A0B0"  offset ="2598" length ="4"  vr= "US" keyword= "ReferencedWaveformChannels" ><Value number="1" >1</Value></DicomAttribute>
+<DicomAttribute  tag="0040A180"  offset ="2610" length ="2"  vr= "US" keyword= "AnnotationGroupNumber" ><Value number="1" >1</Value></DicomAttribute>
+<DicomAttribute  tag="0040A30A"  offset ="2620" length ="2"  vr= "DS" keyword= "NumericValue" ><Value number="1" >69</Value></DicomAttribute>
+</Item> 
+<Item  number="10"   >
+<DicomAttribute  tag="004008EA"  offset ="2650" length ="-1"  vr= "SQ" keyword= "MeasurementUnitsCodeSequence" ><Item  number="1"   >
+<DicomAttribute  tag="00080100"  offset ="2666" length ="4"  vr= "SH" keyword= "CodeValue" ><Value number="1" >deg </Value></DicomAttribute>
+<DicomAttribute  tag="00080102"  offset ="2678" length ="4"  vr= "SH" keyword= "CodingSchemeDesignator" ><Value number="1" >UCUM</Value></DicomAttribute>
+<DicomAttribute  tag="00080103"  offset ="2690" length ="4"  vr= "SH" keyword= "CodingSchemeVersion" ><Value number="1" >1.4 </Value></DicomAttribute>
+<DicomAttribute  tag="00080104"  offset ="2702" length ="8"  vr= "LO" keyword= "CodeMeaning" ><Value number="1" >degrees </Value></DicomAttribute>
+</Item> 
+</DicomAttribute><DicomAttribute  tag="0040A043"  offset ="2738" length ="-1"  vr= "SQ" keyword= "ConceptNameCodeSequence" ><Item  number="1"   >
+<DicomAttribute  tag="00080100"  offset ="2754" length ="10"  vr= "SH" keyword= "CodeValue" ><Value number="1" >5.10.3-13 </Value></DicomAttribute>
+<DicomAttribute  tag="00080102"  offset ="2772" length ="6"  vr= "SH" keyword= "CodingSchemeDesignator" ><Value number="1" >SCPECG</Value></DicomAttribute>
+<DicomAttribute  tag="00080103"  offset ="2786" length ="4"  vr= "SH" keyword= "CodingSchemeVersion" ><Value number="1" >1.3 </Value></DicomAttribute>
+<DicomAttribute  tag="00080104"  offset ="2798" length ="8"  vr= "LO" keyword= "CodeMeaning" ><Value number="1" >QRS Axis</Value></DicomAttribute>
+</Item> 
+</DicomAttribute><DicomAttribute  tag="0040A0B0"  offset ="2830" length ="4"  vr= "US" keyword= "ReferencedWaveformChannels" ><Value number="1" >1</Value></DicomAttribute>
+<DicomAttribute  tag="0040A180"  offset ="2842" length ="2"  vr= "US" keyword= "AnnotationGroupNumber" ><Value number="1" >1</Value></DicomAttribute>
+<DicomAttribute  tag="0040A30A"  offset ="2852" length ="4"  vr= "DS" keyword= "NumericValue" ><Value number="1" >-78 </Value></DicomAttribute>
+</Item> 
+<Item  number="11"   >
+<DicomAttribute  tag="004008EA"  offset ="2884" length ="-1"  vr= "SQ" keyword= "MeasurementUnitsCodeSequence" ><Item  number="1"   >
+<DicomAttribute  tag="00080100"  offset ="2900" length ="4"  vr= "SH" keyword= "CodeValue" ><Value number="1" >deg </Value></DicomAttribute>
+<DicomAttribute  tag="00080102"  offset ="2912" length ="4"  vr= "SH" keyword= "CodingSchemeDesignator" ><Value number="1" >UCUM</Value></DicomAttribute>
+<DicomAttribute  tag="00080103"  offset ="2924" length ="4"  vr= "SH" keyword= "CodingSchemeVersion" ><Value number="1" >1.4 </Value></DicomAttribute>
+<DicomAttribute  tag="00080104"  offset ="2936" length ="8"  vr= "LO" keyword= "CodeMeaning" ><Value number="1" >degrees </Value></DicomAttribute>
+</Item> 
+</DicomAttribute><DicomAttribute  tag="0040A043"  offset ="2972" length ="-1"  vr= "SQ" keyword= "ConceptNameCodeSequence" ><Item  number="1"   >
+<DicomAttribute  tag="00080100"  offset ="2988" length ="10"  vr= "SH" keyword= "CodeValue" ><Value number="1" >5.10.3-15 </Value></DicomAttribute>
+<DicomAttribute  tag="00080102"  offset ="3006" length ="6"  vr= "SH" keyword= "CodingSchemeDesignator" ><Value number="1" >SCPECG</Value></DicomAttribute>
+<DicomAttribute  tag="00080103"  offset ="3020" length ="4"  vr= "SH" keyword= "CodingSchemeVersion" ><Value number="1" >1.3 </Value></DicomAttribute>
+<DicomAttribute  tag="00080104"  offset ="3032" length ="6"  vr= "LO" keyword= "CodeMeaning" ><Value number="1" >T Axis</Value></DicomAttribute>
+</Item> 
+</DicomAttribute><DicomAttribute  tag="0040A0B0"  offset ="3062" length ="4"  vr= "US" keyword= "ReferencedWaveformChannels" ><Value number="1" >1</Value></DicomAttribute>
+<DicomAttribute  tag="0040A180"  offset ="3074" length ="2"  vr= "US" keyword= "AnnotationGroupNumber" ><Value number="1" >1</Value></DicomAttribute>
+<DicomAttribute  tag="0040A30A"  offset ="3084" length ="2"  vr= "DS" keyword= "NumericValue" ><Value number="1" >73</Value></DicomAttribute>
+</Item> 
+<Item  number="12"   >
+<DicomAttribute  tag="004008EA"  offset ="3114" length ="-1"  vr= "SQ" keyword= "MeasurementUnitsCodeSequence" ><Item  number="1"   >
+<DicomAttribute  tag="00080100"  offset ="3130" length ="10"  vr= "SH" keyword= "CodeValue" ><Value number="1" >{H.B.}/min</Value></DicomAttribute>
+<DicomAttribute  tag="00080102"  offset ="3148" length ="4"  vr= "SH" keyword= "CodingSchemeDesignator" ><Value number="1" >UCUM</Value></DicomAttribute>
+<DicomAttribute  tag="00080103"  offset ="3160" length ="4"  vr= "SH" keyword= "CodingSchemeVersion" ><Value number="1" >1.4 </Value></DicomAttribute>
+<DicomAttribute  tag="00080104"  offset ="3172" length ="22"  vr= "LO" keyword= "CodeMeaning" ><Value number="1" >Heart beat per minute </Value></DicomAttribute>
+</Item> 
+</DicomAttribute><DicomAttribute  tag="0040A043"  offset ="3222" length ="-1"  vr= "SQ" keyword= "ConceptNameCodeSequence" ><Item  number="1"   >
+<DicomAttribute  tag="00080100"  offset ="3238" length ="6"  vr= "SH" keyword= "CodeValue" ><Value number="1" >8867-4</Value></DicomAttribute>
+<DicomAttribute  tag="00080102"  offset ="3252" length ="2"  vr= "SH" keyword= "CodingSchemeDesignator" ><Value number="1" >LN</Value></DicomAttribute>
+<DicomAttribute  tag="00080103"  offset ="3262" length ="8"  vr= "SH" keyword= "CodingSchemeVersion" ><Value number="1" >20030918</Value></DicomAttribute>
+<DicomAttribute  tag="00080104"  offset ="3278" length ="10"  vr= "LO" keyword= "CodeMeaning" ><Value number="1" >Heart rate</Value></DicomAttribute>
+</Item> 
+</DicomAttribute><DicomAttribute  tag="0040A0B0"  offset ="3312" length ="4"  vr= "US" keyword= "ReferencedWaveformChannels" ><Value number="1" >1</Value></DicomAttribute>
+<DicomAttribute  tag="0040A180"  offset ="3324" length ="2"  vr= "US" keyword= "AnnotationGroupNumber" ><Value number="1" >2</Value></DicomAttribute>
+<DicomAttribute  tag="0040A30A"  offset ="3334" length ="2"  vr= "DS" keyword= "NumericValue" ><Value number="1" >91</Value></DicomAttribute>
+</Item> 
+</DicomAttribute><DicomAttribute  tag="54000100"  offset ="3364" length ="-1"  vr= "SQ" keyword= "Unknown" ><Item  number="1"   >
+<DicomAttribute  tag="003A0004"  offset ="3380" length ="8"  vr= "CS" keyword= "WaveformOriginality" ><Value number="1" >ORIGINAL</Value></DicomAttribute>
+<DicomAttribute  tag="003A0005"  offset ="3396" length ="2"  vr= "US" keyword= "NumberOfWaveformChannels" ><Value number="1" >12</Value></DicomAttribute>
+<DicomAttribute  tag="003A0010"  offset ="3406" length ="4"  vr= "UL" keyword= "NumberOfWaveformSamples" ><Value number="1" >5500</Value></DicomAttribute>
+<DicomAttribute  tag="003A001A"  offset ="3418" length ="4"  vr= "DS" keyword= "SamplingFrequency" ><Value number="1" >500 </Value></DicomAttribute>
+<DicomAttribute  tag="003A0200"  offset ="3434" length ="-1"  vr= "SQ" keyword= "ChannelDefinitionSequence" ><Item  number="1"   >
+<DicomAttribute  tag="003A0208"  offset ="3454" length ="-1"  vr= "SQ" keyword= "ChannelSourceSequence" ><Item  number="1"   >
+<DicomAttribute  tag="00080100"  offset ="3470" length ="10"  vr= "SH" keyword= "CodeValue" ><Value number="1" >5.6.3-9-1 </Value></DicomAttribute>
+<DicomAttribute  tag="00080102"  offset ="3488" length ="6"  vr= "SH" keyword= "CodingSchemeDesignator" ><Value number="1" >SCPECG</Value></DicomAttribute>
+<DicomAttribute  tag="00080103"  offset ="3502" length ="4"  vr= "SH" keyword= "CodingSchemeVersion" ><Value number="1" >1.3 </Value></DicomAttribute>
+<DicomAttribute  tag="00080104"  offset ="3514" length ="6"  vr= "LO" keyword= "CodeMeaning" ><Value number="1" >Lead I</Value></DicomAttribute>
+</Item> 
+</DicomAttribute><DicomAttribute  tag="003A0210"  offset ="3544" length ="22"  vr= "DS" keyword= "ChannelSensitivity" ><Value number="1" >4.99999988824129e-003 </Value></DicomAttribute>
+<DicomAttribute  tag="003A0211"  offset ="3578" length ="-1"  vr= "SQ" keyword= "ChannelSensitivityUnitsSequence" ><Item  number="1"   >
+<DicomAttribute  tag="00080100"  offset ="3594" length ="2"  vr= "SH" keyword= "CodeValue" ><Value number="1" >mV</Value></DicomAttribute>
+<DicomAttribute  tag="00080102"  offset ="3604" length ="4"  vr= "SH" keyword= "CodingSchemeDesignator" ><Value number="1" >UCUM</Value></DicomAttribute>
+<DicomAttribute  tag="00080103"  offset ="3616" length ="4"  vr= "SH" keyword= "CodingSchemeVersion" ><Value number="1" >1.4 </Value></DicomAttribute>
+<DicomAttribute  tag="00080104"  offset ="3628" length ="10"  vr= "LO" keyword= "CodeMeaning" ><Value number="1" >millivolt </Value></DicomAttribute>
+</Item> 
+</DicomAttribute><DicomAttribute  tag="003A0212"  offset ="3662" length ="2"  vr= "DS" keyword= "ChannelSensitivityCorrectionFactor" ><Value number="1" >1 </Value></DicomAttribute>
+<DicomAttribute  tag="003A021A"  offset ="3672" length ="2"  vr= "US" keyword= "WaveformBitsStored" ><Value number="1" >16</Value></DicomAttribute>
+<DicomAttribute  tag="003A0220"  offset ="3682" length ="22"  vr= "DS" keyword= "FilterLowFrequency" ><Value number="1" >5.00000007450581e-002 </Value></DicomAttribute>
+<DicomAttribute  tag="003A0221"  offset ="3712" length ="4"  vr= "DS" keyword= "FilterHighFrequency" ><Value number="1" >150 </Value></DicomAttribute>
+</Item> 
+<Item  number="2"   >
+<DicomAttribute  tag="003A0208"  offset ="3744" length ="-1"  vr= "SQ" keyword= "ChannelSourceSequence" ><Item  number="1"   >
+<DicomAttribute  tag="00080100"  offset ="3760" length ="10"  vr= "SH" keyword= "CodeValue" ><Value number="1" >5.6.3-9-2 </Value></DicomAttribute>
+<DicomAttribute  tag="00080102"  offset ="3778" length ="6"  vr= "SH" keyword= "CodingSchemeDesignator" ><Value number="1" >SCPECG</Value></DicomAttribute>
+<DicomAttribute  tag="00080103"  offset ="3792" length ="4"  vr= "SH" keyword= "CodingSchemeVersion" ><Value number="1" >1.3 </Value></DicomAttribute>
+<DicomAttribute  tag="00080104"  offset ="3804" length ="8"  vr= "LO" keyword= "CodeMeaning" ><Value number="1" >Lead II </Value></DicomAttribute>
+</Item> 
+</DicomAttribute><DicomAttribute  tag="003A0210"  offset ="3836" length ="22"  vr= "DS" keyword= "ChannelSensitivity" ><Value number="1" >4.99999988824129e-003 </Value></DicomAttribute>
+<DicomAttribute  tag="003A0211"  offset ="3870" length ="-1"  vr= "SQ" keyword= "ChannelSensitivityUnitsSequence" ><Item  number="1"   >
+<DicomAttribute  tag="00080100"  offset ="3886" length ="2"  vr= "SH" keyword= "CodeValue" ><Value number="1" >mV</Value></DicomAttribute>
+<DicomAttribute  tag="00080102"  offset ="3896" length ="4"  vr= "SH" keyword= "CodingSchemeDesignator" ><Value number="1" >UCUM</Value></DicomAttribute>
+<DicomAttribute  tag="00080103"  offset ="3908" length ="4"  vr= "SH" keyword= "CodingSchemeVersion" ><Value number="1" >1.4 </Value></DicomAttribute>
+<DicomAttribute  tag="00080104"  offset ="3920" length ="10"  vr= "LO" keyword= "CodeMeaning" ><Value number="1" >millivolt </Value></DicomAttribute>
+</Item> 
+</DicomAttribute><DicomAttribute  tag="003A0212"  offset ="3954" length ="2"  vr= "DS" keyword= "ChannelSensitivityCorrectionFactor" ><Value number="1" >1 </Value></DicomAttribute>
+<DicomAttribute  tag="003A021A"  offset ="3964" length ="2"  vr= "US" keyword= "WaveformBitsStored" ><Value number="1" >16</Value></DicomAttribute>
+<DicomAttribute  tag="003A0220"  offset ="3974" length ="22"  vr= "DS" keyword= "FilterLowFrequency" ><Value number="1" >5.00000007450581e-002 </Value></DicomAttribute>
+<DicomAttribute  tag="003A0221"  offset ="4004" length ="4"  vr= "DS" keyword= "FilterHighFrequency" ><Value number="1" >150 </Value></DicomAttribute>
+</Item> 
+<Item  number="3"   >
+<DicomAttribute  tag="003A0208"  offset ="4036" length ="-1"  vr= "SQ" keyword= "ChannelSourceSequence" ><Item  number="1"   >
+<DicomAttribute  tag="00080100"  offset ="4052" length ="10"  vr= "SH" keyword= "CodeValue" ><Value number="1" >5.6.3-9-61</Value></DicomAttribute>
+<DicomAttribute  tag="00080102"  offset ="4070" length ="6"  vr= "SH" keyword= "CodingSchemeDesignator" ><Value number="1" >SCPECG</Value></DicomAttribute>
+<DicomAttribute  tag="00080103"  offset ="4084" length ="4"  vr= "SH" keyword= "CodingSchemeVersion" ><Value number="1" >1.3 </Value></DicomAttribute>
+<DicomAttribute  tag="00080104"  offset ="4096" length ="8"  vr= "LO" keyword= "CodeMeaning" ><Value number="1" >Lead III</Value></DicomAttribute>
+</Item> 
+</DicomAttribute><DicomAttribute  tag="003A0210"  offset ="4128" length ="22"  vr= "DS" keyword= "ChannelSensitivity" ><Value number="1" >4.99999988824129e-003 </Value></DicomAttribute>
+<DicomAttribute  tag="003A0211"  offset ="4162" length ="-1"  vr= "SQ" keyword= "ChannelSensitivityUnitsSequence" ><Item  number="1"   >
+<DicomAttribute  tag="00080100"  offset ="4178" length ="2"  vr= "SH" keyword= "CodeValue" ><Value number="1" >mV</Value></DicomAttribute>
+<DicomAttribute  tag="00080102"  offset ="4188" length ="4"  vr= "SH" keyword= "CodingSchemeDesignator" ><Value number="1" >UCUM</Value></DicomAttribute>
+<DicomAttribute  tag="00080103"  offset ="4200" length ="4"  vr= "SH" keyword= "CodingSchemeVersion" ><Value number="1" >1.4 </Value></DicomAttribute>
+<DicomAttribute  tag="00080104"  offset ="4212" length ="10"  vr= "LO" keyword= "CodeMeaning" ><Value number="1" >millivolt </Value></DicomAttribute>
+</Item> 
+</DicomAttribute><DicomAttribute  tag="003A0212"  offset ="4246" length ="2"  vr= "DS" keyword= "ChannelSensitivityCorrectionFactor" ><Value number="1" >1 </Value></DicomAttribute>
+<DicomAttribute  tag="003A021A"  offset ="4256" length ="2"  vr= "US" keyword= "WaveformBitsStored" ><Value number="1" >16</Value></DicomAttribute>
+<DicomAttribute  tag="003A0220"  offset ="4266" length ="22"  vr= "DS" keyword= "FilterLowFrequency" ><Value number="1" >5.00000007450581e-002 </Value></DicomAttribute>
+<DicomAttribute  tag="003A0221"  offset ="4296" length ="4"  vr= "DS" keyword= "FilterHighFrequency" ><Value number="1" >150 </Value></DicomAttribute>
+</Item> 
+<Item  number="4"   >
+<DicomAttribute  tag="003A0208"  offset ="4328" length ="-1"  vr= "SQ" keyword= "ChannelSourceSequence" ><Item  number="1"   >
+<DicomAttribute  tag="00080100"  offset ="4344" length ="10"  vr= "SH" keyword= "CodeValue" ><Value number="1" >5.6.3-9-62</Value></DicomAttribute>
+<DicomAttribute  tag="00080102"  offset ="4362" length ="6"  vr= "SH" keyword= "CodingSchemeDesignator" ><Value number="1" >SCPECG</Value></DicomAttribute>
+<DicomAttribute  tag="00080103"  offset ="4376" length ="4"  vr= "SH" keyword= "CodingSchemeVersion" ><Value number="1" >1.3 </Value></DicomAttribute>
+<DicomAttribute  tag="00080104"  offset ="4388" length ="8"  vr= "LO" keyword= "CodeMeaning" ><Value number="1" >Lead aVR</Value></DicomAttribute>
+</Item> 
+</DicomAttribute><DicomAttribute  tag="003A0210"  offset ="4420" length ="22"  vr= "DS" keyword= "ChannelSensitivity" ><Value number="1" >4.99999988824129e-003 </Value></DicomAttribute>
+<DicomAttribute  tag="003A0211"  offset ="4454" length ="-1"  vr= "SQ" keyword= "ChannelSensitivityUnitsSequence" ><Item  number="1"   >
+<DicomAttribute  tag="00080100"  offset ="4470" length ="2"  vr= "SH" keyword= "CodeValue" ><Value number="1" >mV</Value></DicomAttribute>
+<DicomAttribute  tag="00080102"  offset ="4480" length ="4"  vr= "SH" keyword= "CodingSchemeDesignator" ><Value number="1" >UCUM</Value></DicomAttribute>
+<DicomAttribute  tag="00080103"  offset ="4492" length ="4"  vr= "SH" keyword= "CodingSchemeVersion" ><Value number="1" >1.4 </Value></DicomAttribute>
+<DicomAttribute  tag="00080104"  offset ="4504" length ="10"  vr= "LO" keyword= "CodeMeaning" ><Value number="1" >millivolt </Value></DicomAttribute>
+</Item> 
+</DicomAttribute><DicomAttribute  tag="003A0212"  offset ="4538" length ="2"  vr= "DS" keyword= "ChannelSensitivityCorrectionFactor" ><Value number="1" >1 </Value></DicomAttribute>
+<DicomAttribute  tag="003A021A"  offset ="4548" length ="2"  vr= "US" keyword= "WaveformBitsStored" ><Value number="1" >16</Value></DicomAttribute>
+<DicomAttribute  tag="003A0220"  offset ="4558" length ="22"  vr= "DS" keyword= "FilterLowFrequency" ><Value number="1" >5.00000007450581e-002 </Value></DicomAttribute>
+<DicomAttribute  tag="003A0221"  offset ="4588" length ="4"  vr= "DS" keyword= "FilterHighFrequency" ><Value number="1" >150 </Value></DicomAttribute>
+</Item> 
+<Item  number="5"   >
+<DicomAttribute  tag="003A0208"  offset ="4620" length ="-1"  vr= "SQ" keyword= "ChannelSourceSequence" ><Item  number="1"   >
+<DicomAttribute  tag="00080100"  offset ="4636" length ="10"  vr= "SH" keyword= "CodeValue" ><Value number="1" >5.6.3-9-63</Value></DicomAttribute>
+<DicomAttribute  tag="00080102"  offset ="4654" length ="6"  vr= "SH" keyword= "CodingSchemeDesignator" ><Value number="1" >SCPECG</Value></DicomAttribute>
+<DicomAttribute  tag="00080103"  offset ="4668" length ="4"  vr= "SH" keyword= "CodingSchemeVersion" ><Value number="1" >1.3 </Value></DicomAttribute>
+<DicomAttribute  tag="00080104"  offset ="4680" length ="8"  vr= "LO" keyword= "CodeMeaning" ><Value number="1" >Lead aVL</Value></DicomAttribute>
+</Item> 
+</DicomAttribute><DicomAttribute  tag="003A0210"  offset ="4712" length ="22"  vr= "DS" keyword= "ChannelSensitivity" ><Value number="1" >4.99999988824129e-003 </Value></DicomAttribute>
+<DicomAttribute  tag="003A0211"  offset ="4746" length ="-1"  vr= "SQ" keyword= "ChannelSensitivityUnitsSequence" ><Item  number="1"   >
+<DicomAttribute  tag="00080100"  offset ="4762" length ="2"  vr= "SH" keyword= "CodeValue" ><Value number="1" >mV</Value></DicomAttribute>
+<DicomAttribute  tag="00080102"  offset ="4772" length ="4"  vr= "SH" keyword= "CodingSchemeDesignator" ><Value number="1" >UCUM</Value></DicomAttribute>
+<DicomAttribute  tag="00080103"  offset ="4784" length ="4"  vr= "SH" keyword= "CodingSchemeVersion" ><Value number="1" >1.4 </Value></DicomAttribute>
+<DicomAttribute  tag="00080104"  offset ="4796" length ="10"  vr= "LO" keyword= "CodeMeaning" ><Value number="1" >millivolt </Value></DicomAttribute>
+</Item> 
+</DicomAttribute><DicomAttribute  tag="003A0212"  offset ="4830" length ="2"  vr= "DS" keyword= "ChannelSensitivityCorrectionFactor" ><Value number="1" >1 </Value></DicomAttribute>
+<DicomAttribute  tag="003A021A"  offset ="4840" length ="2"  vr= "US" keyword= "WaveformBitsStored" ><Value number="1" >16</Value></DicomAttribute>
+<DicomAttribute  tag="003A0220"  offset ="4850" length ="22"  vr= "DS" keyword= "FilterLowFrequency" ><Value number="1" >5.00000007450581e-002 </Value></DicomAttribute>
+<DicomAttribute  tag="003A0221"  offset ="4880" length ="4"  vr= "DS" keyword= "FilterHighFrequency" ><Value number="1" >150 </Value></DicomAttribute>
+</Item> 
+<Item  number="6"   >
+<DicomAttribute  tag="003A0208"  offset ="4912" length ="-1"  vr= "SQ" keyword= "ChannelSourceSequence" ><Item  number="1"   >
+<DicomAttribute  tag="00080100"  offset ="4928" length ="10"  vr= "SH" keyword= "CodeValue" ><Value number="1" >5.6.3-9-64</Value></DicomAttribute>
+<DicomAttribute  tag="00080102"  offset ="4946" length ="6"  vr= "SH" keyword= "CodingSchemeDesignator" ><Value number="1" >SCPECG</Value></DicomAttribute>
+<DicomAttribute  tag="00080103"  offset ="4960" length ="4"  vr= "SH" keyword= "CodingSchemeVersion" ><Value number="1" >1.3 </Value></DicomAttribute>
+<DicomAttribute  tag="00080104"  offset ="4972" length ="8"  vr= "LO" keyword= "CodeMeaning" ><Value number="1" >Lead aVF</Value></DicomAttribute>
+</Item> 
+</DicomAttribute><DicomAttribute  tag="003A0210"  offset ="5004" length ="22"  vr= "DS" keyword= "ChannelSensitivity" ><Value number="1" >4.99999988824129e-003 </Value></DicomAttribute>
+<DicomAttribute  tag="003A0211"  offset ="5038" length ="-1"  vr= "SQ" keyword= "ChannelSensitivityUnitsSequence" ><Item  number="1"   >
+<DicomAttribute  tag="00080100"  offset ="5054" length ="2"  vr= "SH" keyword= "CodeValue" ><Value number="1" >mV</Value></DicomAttribute>
+<DicomAttribute  tag="00080102"  offset ="5064" length ="4"  vr= "SH" keyword= "CodingSchemeDesignator" ><Value number="1" >UCUM</Value></DicomAttribute>
+<DicomAttribute  tag="00080103"  offset ="5076" length ="4"  vr= "SH" keyword= "CodingSchemeVersion" ><Value number="1" >1.4 </Value></DicomAttribute>
+<DicomAttribute  tag="00080104"  offset ="5088" length ="10"  vr= "LO" keyword= "CodeMeaning" ><Value number="1" >millivolt </Value></DicomAttribute>
+</Item> 
+</DicomAttribute><DicomAttribute  tag="003A0212"  offset ="5122" length ="2"  vr= "DS" keyword= "ChannelSensitivityCorrectionFactor" ><Value number="1" >1 </Value></DicomAttribute>
+<DicomAttribute  tag="003A021A"  offset ="5132" length ="2"  vr= "US" keyword= "WaveformBitsStored" ><Value number="1" >16</Value></DicomAttribute>
+<DicomAttribute  tag="003A0220"  offset ="5142" length ="22"  vr= "DS" keyword= "FilterLowFrequency" ><Value number="1" >5.00000007450581e-002 </Value></DicomAttribute>
+<DicomAttribute  tag="003A0221"  offset ="5172" length ="4"  vr= "DS" keyword= "FilterHighFrequency" ><Value number="1" >150 </Value></DicomAttribute>
+</Item> 
+<Item  number="7"   >
+<DicomAttribute  tag="003A0208"  offset ="5204" length ="-1"  vr= "SQ" keyword= "ChannelSourceSequence" ><Item  number="1"   >
+<DicomAttribute  tag="00080100"  offset ="5220" length ="10"  vr= "SH" keyword= "CodeValue" ><Value number="1" >5.6.3-9-3 </Value></DicomAttribute>
+<DicomAttribute  tag="00080102"  offset ="5238" length ="6"  vr= "SH" keyword= "CodingSchemeDesignator" ><Value number="1" >SCPECG</Value></DicomAttribute>
+<DicomAttribute  tag="00080103"  offset ="5252" length ="4"  vr= "SH" keyword= "CodingSchemeVersion" ><Value number="1" >1.3 </Value></DicomAttribute>
+<DicomAttribute  tag="00080104"  offset ="5264" length ="8"  vr= "LO" keyword= "CodeMeaning" ><Value number="1" >Lead V1 </Value></DicomAttribute>
+</Item> 
+</DicomAttribute><DicomAttribute  tag="003A0210"  offset ="5296" length ="22"  vr= "DS" keyword= "ChannelSensitivity" ><Value number="1" >4.99999988824129e-003 </Value></DicomAttribute>
+<DicomAttribute  tag="003A0211"  offset ="5330" length ="-1"  vr= "SQ" keyword= "ChannelSensitivityUnitsSequence" ><Item  number="1"   >
+<DicomAttribute  tag="00080100"  offset ="5346" length ="2"  vr= "SH" keyword= "CodeValue" ><Value number="1" >mV</Value></DicomAttribute>
+<DicomAttribute  tag="00080102"  offset ="5356" length ="4"  vr= "SH" keyword= "CodingSchemeDesignator" ><Value number="1" >UCUM</Value></DicomAttribute>
+<DicomAttribute  tag="00080103"  offset ="5368" length ="4"  vr= "SH" keyword= "CodingSchemeVersion" ><Value number="1" >1.4 </Value></DicomAttribute>
+<DicomAttribute  tag="00080104"  offset ="5380" length ="10"  vr= "LO" keyword= "CodeMeaning" ><Value number="1" >millivolt </Value></DicomAttribute>
+</Item> 
+</DicomAttribute><DicomAttribute  tag="003A0212"  offset ="5414" length ="2"  vr= "DS" keyword= "ChannelSensitivityCorrectionFactor" ><Value number="1" >1 </Value></DicomAttribute>
+<DicomAttribute  tag="003A021A"  offset ="5424" length ="2"  vr= "US" keyword= "WaveformBitsStored" ><Value number="1" >16</Value></DicomAttribute>
+<DicomAttribute  tag="003A0220"  offset ="5434" length ="22"  vr= "DS" keyword= "FilterLowFrequency" ><Value number="1" >5.00000007450581e-002 </Value></DicomAttribute>
+<DicomAttribute  tag="003A0221"  offset ="5464" length ="4"  vr= "DS" keyword= "FilterHighFrequency" ><Value number="1" >150 </Value></DicomAttribute>
+</Item> 
+<Item  number="8"   >
+<DicomAttribute  tag="003A0208"  offset ="5496" length ="-1"  vr= "SQ" keyword= "ChannelSourceSequence" ><Item  number="1"   >
+<DicomAttribute  tag="00080100"  offset ="5512" length ="10"  vr= "SH" keyword= "CodeValue" ><Value number="1" >5.6.3-9-4 </Value></DicomAttribute>
+<DicomAttribute  tag="00080102"  offset ="5530" length ="6"  vr= "SH" keyword= "CodingSchemeDesignator" ><Value number="1" >SCPECG</Value></DicomAttribute>
+<DicomAttribute  tag="00080103"  offset ="5544" length ="4"  vr= "SH" keyword= "CodingSchemeVersion" ><Value number="1" >1.3 </Value></DicomAttribute>
+<DicomAttribute  tag="00080104"  offset ="5556" length ="8"  vr= "LO" keyword= "CodeMeaning" ><Value number="1" >Lead V2 </Value></DicomAttribute>
+</Item> 
+</DicomAttribute><DicomAttribute  tag="003A0210"  offset ="5588" length ="22"  vr= "DS" keyword= "ChannelSensitivity" ><Value number="1" >4.99999988824129e-003 </Value></DicomAttribute>
+<DicomAttribute  tag="003A0211"  offset ="5622" length ="-1"  vr= "SQ" keyword= "ChannelSensitivityUnitsSequence" ><Item  number="1"   >
+<DicomAttribute  tag="00080100"  offset ="5638" length ="2"  vr= "SH" keyword= "CodeValue" ><Value number="1" >mV</Value></DicomAttribute>
+<DicomAttribute  tag="00080102"  offset ="5648" length ="4"  vr= "SH" keyword= "CodingSchemeDesignator" ><Value number="1" >UCUM</Value></DicomAttribute>
+<DicomAttribute  tag="00080103"  offset ="5660" length ="4"  vr= "SH" keyword= "CodingSchemeVersion" ><Value number="1" >1.4 </Value></DicomAttribute>
+<DicomAttribute  tag="00080104"  offset ="5672" length ="10"  vr= "LO" keyword= "CodeMeaning" ><Value number="1" >millivolt </Value></DicomAttribute>
+</Item> 
+</DicomAttribute><DicomAttribute  tag="003A0212"  offset ="5706" length ="2"  vr= "DS" keyword= "ChannelSensitivityCorrectionFactor" ><Value number="1" >1 </Value></DicomAttribute>
+<DicomAttribute  tag="003A021A"  offset ="5716" length ="2"  vr= "US" keyword= "WaveformBitsStored" ><Value number="1" >16</Value></DicomAttribute>
+<DicomAttribute  tag="003A0220"  offset ="5726" length ="22"  vr= "DS" keyword= "FilterLowFrequency" ><Value number="1" >5.00000007450581e-002 </Value></DicomAttribute>
+<DicomAttribute  tag="003A0221"  offset ="5756" length ="4"  vr= "DS" keyword= "FilterHighFrequency" ><Value number="1" >150 </Value></DicomAttribute>
+</Item> 
+<Item  number="9"   >
+<DicomAttribute  tag="003A0208"  offset ="5788" length ="-1"  vr= "SQ" keyword= "ChannelSourceSequence" ><Item  number="1"   >
+<DicomAttribute  tag="00080100"  offset ="5804" length ="10"  vr= "SH" keyword= "CodeValue" ><Value number="1" >5.6.3-9-5 </Value></DicomAttribute>
+<DicomAttribute  tag="00080102"  offset ="5822" length ="6"  vr= "SH" keyword= "CodingSchemeDesignator" ><Value number="1" >SCPECG</Value></DicomAttribute>
+<DicomAttribute  tag="00080103"  offset ="5836" length ="4"  vr= "SH" keyword= "CodingSchemeVersion" ><Value number="1" >1.3 </Value></DicomAttribute>
+<DicomAttribute  tag="00080104"  offset ="5848" length ="8"  vr= "LO" keyword= "CodeMeaning" ><Value number="1" >Lead V3 </Value></DicomAttribute>
+</Item> 
+</DicomAttribute><DicomAttribute  tag="003A0210"  offset ="5880" length ="22"  vr= "DS" keyword= "ChannelSensitivity" ><Value number="1" >4.99999988824129e-003 </Value></DicomAttribute>
+<DicomAttribute  tag="003A0211"  offset ="5914" length ="-1"  vr= "SQ" keyword= "ChannelSensitivityUnitsSequence" ><Item  number="1"   >
+<DicomAttribute  tag="00080100"  offset ="5930" length ="2"  vr= "SH" keyword= "CodeValue" ><Value number="1" >mV</Value></DicomAttribute>
+<DicomAttribute  tag="00080102"  offset ="5940" length ="4"  vr= "SH" keyword= "CodingSchemeDesignator" ><Value number="1" >UCUM</Value></DicomAttribute>
+<DicomAttribute  tag="00080103"  offset ="5952" length ="4"  vr= "SH" keyword= "CodingSchemeVersion" ><Value number="1" >1.4 </Value></DicomAttribute>
+<DicomAttribute  tag="00080104"  offset ="5964" length ="10"  vr= "LO" keyword= "CodeMeaning" ><Value number="1" >millivolt </Value></DicomAttribute>
+</Item> 
+</DicomAttribute><DicomAttribute  tag="003A0212"  offset ="5998" length ="2"  vr= "DS" keyword= "ChannelSensitivityCorrectionFactor" ><Value number="1" >1 </Value></DicomAttribute>
+<DicomAttribute  tag="003A021A"  offset ="6008" length ="2"  vr= "US" keyword= "WaveformBitsStored" ><Value number="1" >16</Value></DicomAttribute>
+<DicomAttribute  tag="003A0220"  offset ="6018" length ="22"  vr= "DS" keyword= "FilterLowFrequency" ><Value number="1" >5.00000007450581e-002 </Value></DicomAttribute>
+<DicomAttribute  tag="003A0221"  offset ="6048" length ="4"  vr= "DS" keyword= "FilterHighFrequency" ><Value number="1" >150 </Value></DicomAttribute>
+</Item> 
+<Item  number="10"   >
+<DicomAttribute  tag="003A0208"  offset ="6080" length ="-1"  vr= "SQ" keyword= "ChannelSourceSequence" ><Item  number="1"   >
+<DicomAttribute  tag="00080100"  offset ="6096" length ="10"  vr= "SH" keyword= "CodeValue" ><Value number="1" >5.6.3-9-6 </Value></DicomAttribute>
+<DicomAttribute  tag="00080102"  offset ="6114" length ="6"  vr= "SH" keyword= "CodingSchemeDesignator" ><Value number="1" >SCPECG</Value></DicomAttribute>
+<DicomAttribute  tag="00080103"  offset ="6128" length ="4"  vr= "SH" keyword= "CodingSchemeVersion" ><Value number="1" >1.3 </Value></DicomAttribute>
+<DicomAttribute  tag="00080104"  offset ="6140" length ="8"  vr= "LO" keyword= "CodeMeaning" ><Value number="1" >Lead V4 </Value></DicomAttribute>
+</Item> 
+</DicomAttribute><DicomAttribute  tag="003A0210"  offset ="6172" length ="22"  vr= "DS" keyword= "ChannelSensitivity" ><Value number="1" >4.99999988824129e-003 </Value></DicomAttribute>
+<DicomAttribute  tag="003A0211"  offset ="6206" length ="-1"  vr= "SQ" keyword= "ChannelSensitivityUnitsSequence" ><Item  number="1"   >
+<DicomAttribute  tag="00080100"  offset ="6222" length ="2"  vr= "SH" keyword= "CodeValue" ><Value number="1" >mV</Value></DicomAttribute>
+<DicomAttribute  tag="00080102"  offset ="6232" length ="4"  vr= "SH" keyword= "CodingSchemeDesignator" ><Value number="1" >UCUM</Value></DicomAttribute>
+<DicomAttribute  tag="00080103"  offset ="6244" length ="4"  vr= "SH" keyword= "CodingSchemeVersion" ><Value number="1" >1.4 </Value></DicomAttribute>
+<DicomAttribute  tag="00080104"  offset ="6256" length ="10"  vr= "LO" keyword= "CodeMeaning" ><Value number="1" >millivolt </Value></DicomAttribute>
+</Item> 
+</DicomAttribute><DicomAttribute  tag="003A0212"  offset ="6290" length ="2"  vr= "DS" keyword= "ChannelSensitivityCorrectionFactor" ><Value number="1" >1 </Value></DicomAttribute>
+<DicomAttribute  tag="003A021A"  offset ="6300" length ="2"  vr= "US" keyword= "WaveformBitsStored" ><Value number="1" >16</Value></DicomAttribute>
+<DicomAttribute  tag="003A0220"  offset ="6310" length ="22"  vr= "DS" keyword= "FilterLowFrequency" ><Value number="1" >5.00000007450581e-002 </Value></DicomAttribute>
+<DicomAttribute  tag="003A0221"  offset ="6340" length ="4"  vr= "DS" keyword= "FilterHighFrequency" ><Value number="1" >150 </Value></DicomAttribute>
+</Item> 
+<Item  number="11"   >
+<DicomAttribute  tag="003A0208"  offset ="6372" length ="-1"  vr= "SQ" keyword= "ChannelSourceSequence" ><Item  number="1"   >
+<DicomAttribute  tag="00080100"  offset ="6388" length ="10"  vr= "SH" keyword= "CodeValue" ><Value number="1" >5.6.3-9-7 </Value></DicomAttribute>
+<DicomAttribute  tag="00080102"  offset ="6406" length ="6"  vr= "SH" keyword= "CodingSchemeDesignator" ><Value number="1" >SCPECG</Value></DicomAttribute>
+<DicomAttribute  tag="00080103"  offset ="6420" length ="4"  vr= "SH" keyword= "CodingSchemeVersion" ><Value number="1" >1.3 </Value></DicomAttribute>
+<DicomAttribute  tag="00080104"  offset ="6432" length ="8"  vr= "LO" keyword= "CodeMeaning" ><Value number="1" >Lead V5 </Value></DicomAttribute>
+</Item> 
+</DicomAttribute><DicomAttribute  tag="003A0210"  offset ="6464" length ="22"  vr= "DS" keyword= "ChannelSensitivity" ><Value number="1" >4.99999988824129e-003 </Value></DicomAttribute>
+<DicomAttribute  tag="003A0211"  offset ="6498" length ="-1"  vr= "SQ" keyword= "ChannelSensitivityUnitsSequence" ><Item  number="1"   >
+<DicomAttribute  tag="00080100"  offset ="6514" length ="2"  vr= "SH" keyword= "CodeValue" ><Value number="1" >mV</Value></DicomAttribute>
+<DicomAttribute  tag="00080102"  offset ="6524" length ="4"  vr= "SH" keyword= "CodingSchemeDesignator" ><Value number="1" >UCUM</Value></DicomAttribute>
+<DicomAttribute  tag="00080103"  offset ="6536" length ="4"  vr= "SH" keyword= "CodingSchemeVersion" ><Value number="1" >1.4 </Value></DicomAttribute>
+<DicomAttribute  tag="00080104"  offset ="6548" length ="10"  vr= "LO" keyword= "CodeMeaning" ><Value number="1" >millivolt </Value></DicomAttribute>
+</Item> 
+</DicomAttribute><DicomAttribute  tag="003A0212"  offset ="6582" length ="2"  vr= "DS" keyword= "ChannelSensitivityCorrectionFactor" ><Value number="1" >1 </Value></DicomAttribute>
+<DicomAttribute  tag="003A021A"  offset ="6592" length ="2"  vr= "US" keyword= "WaveformBitsStored" ><Value number="1" >16</Value></DicomAttribute>
+<DicomAttribute  tag="003A0220"  offset ="6602" length ="22"  vr= "DS" keyword= "FilterLowFrequency" ><Value number="1" >5.00000007450581e-002 </Value></DicomAttribute>
+<DicomAttribute  tag="003A0221"  offset ="6632" length ="4"  vr= "DS" keyword= "FilterHighFrequency" ><Value number="1" >150 </Value></DicomAttribute>
+</Item> 
+<Item  number="12"   >
+<DicomAttribute  tag="003A0208"  offset ="6664" length ="-1"  vr= "SQ" keyword= "ChannelSourceSequence" ><Item  number="1"   >
+<DicomAttribute  tag="00080100"  offset ="6680" length ="10"  vr= "SH" keyword= "CodeValue" ><Value number="1" >5.6.3-9-8 </Value></DicomAttribute>
+<DicomAttribute  tag="00080102"  offset ="6698" length ="6"  vr= "SH" keyword= "CodingSchemeDesignator" ><Value number="1" >SCPECG</Value></DicomAttribute>
+<DicomAttribute  tag="00080103"  offset ="6712" length ="4"  vr= "SH" keyword= "CodingSchemeVersion" ><Value number="1" >1.3 </Value></DicomAttribute>
+<DicomAttribute  tag="00080104"  offset ="6724" length ="8"  vr= "LO" keyword= "CodeMeaning" ><Value number="1" >Lead V6 </Value></DicomAttribute>
+</Item> 
+</DicomAttribute><DicomAttribute  tag="003A0210"  offset ="6756" length ="22"  vr= "DS" keyword= "ChannelSensitivity" ><Value number="1" >4.99999988824129e-003 </Value></DicomAttribute>
+<DicomAttribute  tag="003A0211"  offset ="6790" length ="-1"  vr= "SQ" keyword= "ChannelSensitivityUnitsSequence" ><Item  number="1"   >
+<DicomAttribute  tag="00080100"  offset ="6806" length ="2"  vr= "SH" keyword= "CodeValue" ><Value number="1" >mV</Value></DicomAttribute>
+<DicomAttribute  tag="00080102"  offset ="6816" length ="4"  vr= "SH" keyword= "CodingSchemeDesignator" ><Value number="1" >UCUM</Value></DicomAttribute>
+<DicomAttribute  tag="00080103"  offset ="6828" length ="4"  vr= "SH" keyword= "CodingSchemeVersion" ><Value number="1" >1.4 </Value></DicomAttribute>
+<DicomAttribute  tag="00080104"  offset ="6840" length ="10"  vr= "LO" keyword= "CodeMeaning" ><Value number="1" >millivolt </Value></DicomAttribute>
+</Item> 
+</DicomAttribute><DicomAttribute  tag="003A0212"  offset ="6874" length ="2"  vr= "DS" keyword= "ChannelSensitivityCorrectionFactor" ><Value number="1" >1 </Value></DicomAttribute>
+<DicomAttribute  tag="003A021A"  offset ="6884" length ="2"  vr= "US" keyword= "WaveformBitsStored" ><Value number="1" >16</Value></DicomAttribute>
+<DicomAttribute  tag="003A0220"  offset ="6894" length ="22"  vr= "DS" keyword= "FilterLowFrequency" ><Value number="1" >5.00000007450581e-002 </Value></DicomAttribute>
+<DicomAttribute  tag="003A0221"  offset ="6924" length ="4"  vr= "DS" keyword= "FilterHighFrequency" ><Value number="1" >150 </Value></DicomAttribute>
+</Item> 
+</DicomAttribute><DicomAttribute  tag="54001004"  offset ="6952" length ="2"  vr= "US" keyword= "Unknown" ><Value number="1" >16</Value></DicomAttribute>
+<DicomAttribute  tag="54001006"  offset ="6962" length ="2"  vr= "CS" keyword= "Unknown" ><Value number="1" >SS</Value></DicomAttribute>
+<DicomAttribute  tag="5400100A"  offset ="6976" length ="0"  vr= "OW" keyword= "Unknown" ></DicomAttribute>
+<DicomAttribute  tag="54001010"  offset ="6988" length ="132000"  vr= "OW" keyword= "Unknown" ></DicomAttribute>
+</Item> 
+</DicomAttribute></NativeDicomModel>

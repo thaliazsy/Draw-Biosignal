@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script src="HTTP2019.js"></script>    
+    <script src="drawGrid.js"></script>    
+</head>
+<body>
+<input id="Button1" onclick="drawECG()" type="button" value="button" /><br><br>
+<canvas id="myCanvas" width="1800" height="800" style="border:1px solid #d3d3d3;">
+Your browser does not support the HTML5 canvas tag.</canvas>
+
+<script>
+function callBack() {  dataview = new DataView(ret);   } 
+HTTPGetBinaryData("ECG/DICOMECG.dcm");
+
+var c = document.getElementById("myCanvas");
+var ctx = c.getContext("2d");
+drawGrid(ctx);
+
+function drawECG() {
+var offset =6988;
+var LeadOffset =0;
+var ECG16data;   
+ctx.beginPath();
+ctx.strokeStyle="#0000FF";
+ECG16data = dataview.getInt16(0 + offset + LeadOffset * 2, true);
+ECG16data =ECG16data/2;
+ctx.moveTo(0,400 - ECG16data);
+for(i=1;i<1800;i++)
+   {   ECG16data = dataview.getInt16(i * 24 + offset + LeadOffset *2, true); 
+       ECG16data =ECG16data/2;
+       ctx.lineTo(i, 400 -ECG16data);  }
+ctx.stroke();
+}
+
+//  drawECG();
+
+</script>
+
+</body>
+</html>
